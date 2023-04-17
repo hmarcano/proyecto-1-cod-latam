@@ -85,9 +85,9 @@ p {
 
 .photo {
   border-radius: 50%;
-  height: 400px;
+  height: 19.875em;
   margin-bottom: 10px;
-  width: 400px;
+  width: 19.875em;
 }
 
 .button {
@@ -95,7 +95,7 @@ p {
   border-radius: 30px;
   color: #fbfbfb;
   font-size: 20px;
-  margin: 90px;
+  /* margin: 90px; */
   padding: 15px;
   /* width: 200px; */
 }
