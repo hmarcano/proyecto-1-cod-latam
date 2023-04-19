@@ -17,7 +17,8 @@ body {
   line-height: 1.2;
 }
 
-.header nav {
+.header {
+  align-items: center;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
   display: flex;
   height: 90px;
@@ -136,7 +137,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 340px) {
   .photo {
     height: 250px;
     width: 250px;
